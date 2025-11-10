@@ -286,28 +286,6 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 - [Keddit - Learn Kotlin While Developing an Android Application](https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664)
 
-## Lua:
-
-### LÖVE:
-
-- BYTEPATH: Creation of a Complete Game with Lua and LÖVE
-  - [Part 0: Introduction](https://github.com/SSYGEN/blog/issues/30)
-  - [Part 1: Game Loop](https://github.com/SSYGEN/blog/issues/15)
-  - [Part 2: Libraries](https://github.com/SSYGEN/blog/issues/16)
-  - [Part 3: Rooms and Areas](https://github.com/SSYGEN/blog/issues/17)
-  - [Part 4: Exercises](https://github.com/SSYGEN/blog/issues/18)
-  - [Part 5: Game Basics](https://github.com/SSYGEN/blog/issues/19)
-  - [Part 6: Player Basics](https://github.com/SSYGEN/blog/issues/20)
-  - [Part 7: Player Stats and Attacks](https://github.com/SSYGEN/blog/issues/21)
-  - [Part 8: Enemies](https://github.com/SSYGEN/blog/issues/22)
-  - [Part 9: Director and Gameplay Loop](https://github.com/SSYGEN/blog/issues/23)
-  - [Part 10: Coding Practices](https://github.com/SSYGEN/blog/issues/24)
-  - [Part 11: Passives](https://github.com/SSYGEN/blog/issues/25)
-  - [Part 12: More Passives](https://github.com/SSYGEN/blog/issues/26)
-  - [Part 13: Skill Tree](https://github.com/SSYGEN/blog/issues/27)
-  - [Part 14: Console](https://github.com/SSYGEN/blog/issues/28)
-  - [Part 15: Final](https://github.com/SSYGEN/blog/issues/29)
-
 ## Python:
 
 ### Web Scraping:
@@ -549,11 +527,6 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Simple actor-based blockchain](https://www.freecodecamp.org/news/how-to-build-a-simple-actor-based-blockchain-aac1e996c177/)
 - [No Magic: Regular Expressions](https://rcoh.svbtle.com/no-magic-regular-expressions)
 
-## Swift:
-
-- [Hacking with Swift - Learn Swift by doing 39 projects](https://www.hackingwithswift.com/read)
-- [Retro first-person shooter from scratch](https://github.com/nicklockwood/RetroRampage)
-
 ## Additional Resources
 
 - [React Redux Links](https://github.com/markerikson/react-redux-links)
@@ -568,4 +541,4 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Enlight](https://enlight.nyc/)
 - [Hack Club Workshops](https://hackclub.com/workshops/)
 - [CodeCrafters](https://codecrafters.io/)
-- https://github.com/codecrafters-io/build-your-own-x
+- [build your own x](https://github.com/codecrafters-io/build-your-own-x)
