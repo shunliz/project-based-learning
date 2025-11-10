@@ -8,24 +8,14 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## Table of Contents:
 
-- [C#](#c)
 - [C/C++](#cc)
-- [Clojure](#clojure)
-- [Dart](#dart)
-- [Elixir](#elixir)
-- [Erlang](#erlang)
-- [F#](#f)
 - [Go](#go)
-- [Haskell](#haskell)
 - [HTML/CSS](#html-and-css)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
-- [OCaml](#ocaml)
-- [PHP](#php)
 - [Python](#python)
-- [R](#r)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Scala](#scala)
@@ -153,60 +143,14 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Handmade Hero](https://handmadehero.org)
 - [How to Make Minecraft in C++/OpenGL](https://www.youtube.com/playlist?list=PLMZ_9w2XRxiZq1vfw1lrpCMRDufe2MKV_) (video)
 
-## C#:
-
-- [Learn C# By Building a Simple RPG Game](http://scottlilly.com/learn-c-by-building-a-simple-rpg-index/)
-- [Create a Rogue-like game in C#](https://roguesharp.wordpress.com/)
-- [Create a Blank App with C# and Xamarin (work in progress)](https://www.intertech.com/Blog/xamarin-tutorial-part-1-create-a-blank-app/)
-- [Build iOS Photo Library App with Xamarin and Visual Studio](https://www.raywenderlich.com/134049/building-ios-apps-with-xamarin-and-visual-studio)
-- [Building the CoreWiki](https://www.youtube.com/playlist?list=PLVMqA0_8O85yC78I4Xj7z48ES48IQBa7p) This is a Wiki-style content management system that has been completely written in C# with ASP.NET Core and Razor Pages. You can find the source code [here](https://github.com/csharpfritz/CoreWiki).
-
-## Clojure:
-
-- [Build a Twitter Bot with Clojure](http://howistart.org/posts/clojure/1/index.html)
-- [Building a Spell-Checker](https://bernhardwenzel.com/articles/clojure-spellchecker/)
-- [Building a JIRA integration with Clojure & Atlassian Connect](https://hackernoon.com/building-a-jira-integration-with-clojure-atlassian-connect-506ebd112807)
-- [Prototyping with Clojure](https://github.com/aliaksandr-s/prototyping-with-clojure)
-- [Tetris in ClojureScript](https://shaunlebron.github.io/t3tr0s-slides)
-
-## Dart:
-
-### Flutter:
-
-- [Amazon Clone with Admin Panel](https://youtu.be/O3nmP-lZAdg)
-- [Food Delivery App](https://youtu.be/7dAt-JMSCVQ)
-- [Google Docs Clone](https://youtu.be/0_GJ1w_iG44)
-- [Instagram Clone](https://youtu.be/mEPm9w5QlJM)
-- [Multiplayer TicTacToe Game](https://youtu.be/Aut-wfXacXg)
-- [TikTok Clone](https://youtu.be/4E4V9F3cbp4)
-- [Ticket Booking App](https://youtu.be/71AsYo2q_0Y)
-- [Travel App](https://youtu.be/x4DydJKVvQk)
-- [Twitch Clone](https://youtu.be/U9YKZrDX0CQ)
-- [WhatsApp Clone](https://youtu.be/yqwfP2vXWJQ)
-- [Wordle Clone](https://youtu.be/_W0RN_Cqhpg)
-- [Zoom Clone](https://youtu.be/sMA1dKbv33Y)
-- [Netflix Clone](https://youtu.be/J8IFNKzs3TI)
-
-## Elixir
-
-- [Building a Simple Chat App With Elixir and Phoenix](https://sheharyar.me/blog/simple-chat-phoenix-elixir/)
-- [How to write a super fast link shortener with Elixir, Phoenix, and Mnesia](https://medium.com/free-code-camp/how-to-write-a-super-fast-link-shortener-with-elixir-phoenix-and-mnesia-70ffa1564b3c)
-
-## Erlang
-
-- [ChatBus : build your first multi-user chat room app with Erlang/OTP](https://medium.com/@kansi/chatbus-build-your-first-multi-user-chat-room-app-with-erlang-otp-b55f72064901)
-- [Making a Chat App with Erlang, Rebar, Cowboy and Bullet](http://marianoguerra.org/posts/making-a-chat-app-with-erlang-rebar-cowboy-and-bullet.html)
-
-## F#:
-
-- [Write your own Excel in 100 lines of F#](http://tomasp.net/blog/2018/write-your-own-excel)
-
 ## Java:
 
 - [Build an Interpreter](http://www.craftinginterpreters.com/) (Chapter 4-13 is written in Java)
 - [Build a Simple HTTP Server with Java](http://javarevisited.blogspot.com/2015/06/how-to-create-http-server-in-java-serversocket-example.html)
 - [Build an Android Flashlight App](https://www.youtube.com/watch?v=dhWL4DC7Krs) (video)
 - [Build a Spring Boot App with User Authentication](https://spring.io/guides/gs/securing-web/)
+- [Build a LSM database using java1](https://github.com/x-hansong/TinyKvStore)
+- [Build a LSM database using java2](https://zhuanlan.zhihu.com/p/385010057)
 
 ## JavaScript:
 
@@ -567,29 +511,6 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/)
 - [REST API masterclass with Go, PostgreSQL and Docker(video playlist)`in progress`](https://www.youtube.com/watch?v=rx6CPDK_5mU&list=PLy_6D98if3ULEtXtNSY_2qN21VCKgoQAE)
 
-## PHP:
-
-- [How To Build A Blog With Laravel](https://www.youtube.com/playlist?list=PLwAKR305CRO-Q90J---jXVzbOd4CDRbVx) (video)
-- [Make Your Own Blog (in Pure PHP)](http://ilovephp.jondh.me.uk/en/tutorial/make-your-own-blog)
-- [Build A Real Estate Website Example with SilverStripe](https://www.silverstripe.org/learn/lessons/)
-- [Building Realtime Chat App with Laravel 5.4 and VueJS](https://www.youtube.com/playlist?list=PLXsbBbd36_uVjOFH_P25__XAyGsohXWlv) (video)
-- [Build A Social Network: Laravel 5 - Youtube](https://www.youtube.com/playlist?list=PLfdtiltiRHWGGxaR6uFtwZnnbcXqyq8JD) (video)
-- Build a full-featured multi-tenant app with Laravel
-  - [Part 0: Introduction](https://medium.com/@ashokgelal/writing-a-full-featured-multi-tenant-laravel-app-from-scratch-a0e1a7350d9d)
-  - [Part 1: Setup](https://medium.com/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-1-4049a3cc229d)
-  - [Part 2: Roles and Permissinos](https://medium.com/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-2-roles-and-permissions-d9a5bfe5d525)
-  - [Part 3: Invitation](https://medium.com/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-3-invitation-c982dca55eb9)
-  - [Part 4: Authentication](https://medium.com/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-4-tenancy-aware-authentication-e0ee37270bc8)
-  - [Part 5: Testing](https://medium.com/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-2-unit-tests-96d6dfbf0617)
-  - [Part 6: User Profile](https://medium.com/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-5-user-profile-5c3d0c655f3a)
-  - [Part 7: Deployment](https://medium.com/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-7-deployment-40bb3c895627)
-- [Build a Laravel CRUD Application From Scratch](https://www.codewall.co.uk/laravel-crud-demo-with-resource-controller-tutorial/)
-
-## OCaml:
-
-- [Implement a Language with LLVM in OCaml](https://llvm.org/docs/tutorial/#kaleidoscope-implementing-a-language-with-llvm-in-objective-caml)
-- [Writing a Game Boy Emulator in OCaml](https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/)
-
 ## Ruby:
 
 - [Build a Network Stack with Ruby](https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b)
@@ -600,28 +521,6 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 3: Concurrent Clients](https://rohitpaulk.com/articles/redis-3)
   - [Part 4: ECHO](https://rohitpaulk.com/articles/redis-4)
 - [Rebuilding Git in Ruby](https://thoughtbot.com/blog/rebuilding-git-in-ruby)
-
-### Ruby on Rails:
-
-- [The Ruby on Rails Tutorial](https://www.railstutorial.org/book)
-- [Build Instagram From Scratch with Ruby on Rails](https://www.dropbox.com/s/9vq430e9s3q7pu8/Let%27s%20Build%20Instagram%20with%20Ruby%20on%20Rails%20-%20Free%20Edition.pdf?dl=0)
-- [Build a Social Network using Rails](https://medium.com/rails-ember-beyond/how-to-build-a-social-network-using-rails-eb31da569233)
-- [How To Build a Ruby on Rails Application](https://www.digitalocean.com/community/tutorials/how-to-build-a-ruby-on-rails-application)
-
-## Haskell:
-
-- [Write You a Haskell - Build a modern functional compiler](http://dev.stephendiehl.com/fun/)
-- [Write Yourself a Scheme in 48 hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
-- [Write You A Scheme, Version 2](https://github.com/write-you-a-scheme-v2/scheme)
-- [Roll Your Own IRC Bot](https://wiki.haskell.org/Roll_your_own_IRC_bot)
-- [Making Movie Monad](https://lettier.github.io/posts/2016-08-15-making-movie-monad.html)
-- [Making a Website with Haskell **(outdated)**](http://adit.io/posts/2013-04-15-making-a-website-with-haskell.html)
-
-## R:
-
-- [Build Web Apps with Shiny](http://shiny.rstudio.com/tutorial/)
-- [Build A Cryptocurrency Bot](https://towardsdatascience.com/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1)
-- [Learn Associate Rule Mining in R](https://towardsdatascience.com/association-rule-mining-in-r-ddf2d044ae50)
 
 ## Rust:
 
