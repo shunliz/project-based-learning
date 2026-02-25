@@ -1,4 +1,22 @@
 # Project Based Learning
+[English](README.md)  [中文版](README_zh.md)
+
+|  项目  | 简介 | 编程语言 | 文档 | 代码 | 视频|
+|  ----  | ---- |---- | ----  | ----| ----|
+| my-redis | 一个简单基于raft的redis实现<br />🛞实现redis协议<br />🛞基于raft协议集群同步<br /> | c/c++ | 单元格 |[github]() [gitee]()|[b站]() [抖音]() [小红书]() [视频号]() [百度网盘]()|
+| hostpath-csi | 一个简单k8s csi 插件 | go | 单元格 |[github]() [gitee]() | [b站]() [抖音]() [小红书]() [视频号]() [百度网盘]()|
+| k8s operator | 一个简单k8s operator | go | 单元格 |[github]() [gitee]() | [b站]() [抖音]() [小红书]() [视频号]() [百度网盘]()|
+| kvstore | java 写的简单的kv存储 | java | 单元格 |[github]() [gitee]() | [b站]() [抖音]() [小红书]() [视频号]() [百度网盘]()|
+| NoKV | 自己实现KV store | go | 单元格 |[github]() [gitee]() | [b站]() [抖音]() [小红书]() [视频号]() [百度网盘]()|
+| ticketd | 一个分布式id生成器 | c/c++ | 单元格 |[github]() [gitee]() | [b站]() [抖音]() [小红书]() [视频号]() [百度网盘]()|
+| happyllm | 自己从头实现一个大模型<br />🛞模型定义<br />🛞预训练<br />🛞SFT训练<br />🛞RLHF训练<br />🛞部署推理<br />🛞基于LLM开发agent | python | 单元格 |[github]() [gitee]() | [b站]() [抖音]() [小红书]() [视频号]() [百度网盘]() |
+| JVM | 自己从头实现一个简单Java解释器 | java | 单元格 |[github]() [gitee]() | [b站]() [抖音]() [小红书]() [视频号]() [百度网盘]()|
+| tinyOS | 自己从头实现一个简单操作系统 | c/c++ | 单元格 |[github]() [gitee]() | [b站]() [抖音]() [小红书]() [视频号]() [百度网盘]()|
+| myLinux | 自己从头定制一个linux发行版<br />🛞定制内核<br />🛞定制驱动<br />🛞调试内核和驱动<br />🛞定制app，模仿android | c/c++ | 单元格 |[github]() [gitee]() | [b站]() [抖音]() [小红书]() [视频号]() [百度网盘]()|
+| MulPost | 自己实现一个多平台媒体发布工具 | ReactJS | 单元格 |[github]() [gitee]() | [b站]() [抖音]() [小红书]() [视频号]() [百度网盘]()|
+| seckill | 自己实现一个秒杀系统 | ReactJS | 单元格 |[github]() [gitee]() | [b站]() [抖音]() [小红书]() [视频号]() [百度网盘]()|
+| shopping | 自己实现一个商城系统 | ReactJS | 单元格 |[github]() [gitee]() | [b站]() [抖音]() [小红书]() [视频号]() [百度网盘]()|
+| CodeAgent | 自己实现一个编程Agent | ReactJS | 单元格 |[github]() [gitee]() | [b站]() [抖音]() [小红书]() [视频号]() [百度网盘]()|
 
 [![Gitter](https://badges.gitter.im/practical-tutorials/community.svg)](https://gitter.im/practical-tutorials/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
@@ -16,7 +34,6 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Python](#python)
-- [Ruby](#ruby)
 - [Rust](#rust)
 - [Scala](#scala)
 - [Swift](#swift)
@@ -451,6 +468,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## Go:
 
+- [Build K8S Hostpath CSI](https://blog.csdn.net/wzjking0929/article/details/153622158)        [local](./refs/k8s_hostpathcsi.md)
 - [Create a Real Time Chat App with Golang, Angular 2, and WebSocket](https://www.thepolyglotdeveloper.com/2016/12/create-real-time-chat-app-golang-angular-2-websockets/)
 - [Building Go Web Applications and Microservices Using Gin](https://semaphoreci.com/community/tutorials/building-go-web-applications-and-microservices-using-gin)
 - [How to Use Godog for Behavior-driven Development in Go](https://semaphoreci.com/community/tutorials/how-to-use-godog-for-behavior-driven-development-in-go)
@@ -488,17 +506,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Building a TCP Chat in Go(video)](https://www.youtube.com/watch?v=Sphme0BqJiY)
 - [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/)
 - [REST API masterclass with Go, PostgreSQL and Docker(video playlist)`in progress`](https://www.youtube.com/watch?v=rx6CPDK_5mU&list=PLy_6D98if3ULEtXtNSY_2qN21VCKgoQAE)
-
-## Ruby:
-
-- [Build a Network Stack with Ruby](https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b)
-- Build your own Redis
-  - [Part 0: Introduction](https://rohitpaulk.com/articles/redis-0)
-  - [Part 1: Barebones TCP Server](https://rohitpaulk.com/articles/redis-1)
-  - [Part 2: PING <-> PONG](https://rohitpaulk.com/articles/redis-2)
-  - [Part 3: Concurrent Clients](https://rohitpaulk.com/articles/redis-3)
-  - [Part 4: ECHO](https://rohitpaulk.com/articles/redis-4)
-- [Rebuilding Git in Ruby](https://thoughtbot.com/blog/rebuilding-git-in-ruby)
+- [NoKV Build  a mordern KV store by go](https://github.com/feichai0017/NoKV)
+- [C2KV LSM raft KV store](https://github.com/Mulily0513/C2KV)
+- 
 
 ## Rust:
 
